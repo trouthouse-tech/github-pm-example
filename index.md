@@ -1,5 +1,5 @@
 ---
-title: _Home
+title: Home
 ---
 
-# TEST
+# Welcome to the TroutHouseTech Docs
