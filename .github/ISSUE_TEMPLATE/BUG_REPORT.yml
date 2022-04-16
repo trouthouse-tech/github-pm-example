@@ -1,4 +1,4 @@
-name: Client: Bug report 🐛
+name: Client Bug report 🐛
 description: Something not working as expected? Create an issue to track it.
 labels:
   - 'type: bug 🐛'
