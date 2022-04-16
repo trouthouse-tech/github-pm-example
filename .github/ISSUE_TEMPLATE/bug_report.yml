@@ -1,5 +1,5 @@
-name: Bug report 🐛
-description: Something not working as expected? Create a report to help us improve.
+name: Client: Bug report 🐛
+description: Something not working as expected? Create an issue to track it.
 labels:
   - 'type: bug 🐛'
 body:
@@ -17,6 +17,7 @@ body:
         - Safari
         - Firefox
         - Edge
+        - All browsers
   - type: textarea
     id: description
     attributes:
