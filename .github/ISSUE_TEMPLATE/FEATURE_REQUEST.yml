@@ -1,7 +1,7 @@
-name: Client Feature request :magic_wand:
+name: Client Feature request 💡
 description: Suggest an idea for this project.
 labels:
-  - 'type: feature enhancement :magic_wand:'
+  - 'type: feature enhancement 💡'
 body:
   - type: markdown
     attributes:
