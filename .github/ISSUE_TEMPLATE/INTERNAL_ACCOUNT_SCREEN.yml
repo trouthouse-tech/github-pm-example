@@ -1,0 +1,30 @@
+name: INTERNAL Account Sreen Functionality Checklist 💡
+description: This is a template of requirements for the account screen functionality.
+labels:
+  - ['type: feature enhancement 💡', 'role: dev :robot:']
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Labels displayed
+      description: The account screen should display the following
+      options:
+        - label: Avatar
+          required: false
+        - label: Name
+          required: false
+        - label: Bio
+          required: false
+  - type: checkboxes
+    id: feature
+    attributes:
+      label: Feature requirements
+      description: These are the feature requirements for the account screen
+      options:
+        - label: Logout button must log you out of app
+          required: false
+        - label: Edit bio button should open input to edit
+          required: false
+        - label: Save button should send bio & display new bio on screen
+          required: false
+      

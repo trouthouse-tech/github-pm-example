@@ -1,0 +1,18 @@
+name: INTERNAL Search Sreen Functionality Checklist 💡
+description: This is a template of requirements for the search screen functionality.
+labels:
+  - ['type: feature enhancement 💡', 'role: dev :robot:']
+body:
+  - type: checkboxes
+    id: feature
+    attributes:
+      label: Feature requirements
+      description: These are the feature requirements for the account screen
+      options:
+        - label: When you hit the X, you should leave the screen
+          required: false
+        - label: When you type in a search term you should see dynamic search terms
+          required: false
+        - label: When you hit on a search term it should take you to the next screen of search results for the term you selected
+          required: false
+      

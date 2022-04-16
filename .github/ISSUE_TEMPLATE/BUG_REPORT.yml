@@ -1,4 +1,4 @@
-name: Client: Bug report 🐛
+name: CLIENT Bug report 🐛
 description: Something not working as expected? Create an issue to track it.
 labels:
   - 'type: bug 🐛'
@@ -13,11 +13,11 @@ body:
       description: Which browser(s) are you experiencing the issue?
       multiple: true
       options:
+        - All browsers
         - Chrome
         - Safari
         - Firefox
         - Edge
-        - All browsers
   - type: textarea
     id: description
     attributes:
