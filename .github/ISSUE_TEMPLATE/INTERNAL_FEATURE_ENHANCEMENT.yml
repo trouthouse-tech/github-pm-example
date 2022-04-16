@@ -42,6 +42,3 @@ body:
     attributes:
       label: Available resources
       description: 'What resources do you have to assist this effort? (loom videos / other issues etc.)'
-  - type: markdown
-    attributes:
-      value:
