@@ -1,4 +1,4 @@
-name: INTERNAL Bug report
+name: 'INTERNAL Bug report :spider:'
 description: Something not working as expected? Create an issue to track it.
 labels:
   - 'type: bug :spider:'
