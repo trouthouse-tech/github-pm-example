@@ -34,9 +34,7 @@ body:
     attributes:
       label: Required functionality
       description:
-        'Highlight any must have needs and functionality for the request. This should not be a full
-        list of functionality; the Carbon team will work with you to define functionality based on
-        the desired experience.'
+        'Highlight any must have needs and functionality for the request.'
   - type: textarea
     id: timeline
     attributes:
@@ -48,8 +46,3 @@ body:
     attributes:
       label: Available resources
       description: 'What resources do you have to assist this effort?'
-  - type: markdown
-    attributes:
-      value:
-        '_Carbon is a collaborative system. We encourage teams to build with us and submit
-        contributions._'
