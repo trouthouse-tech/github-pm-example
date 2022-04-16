@@ -7,7 +7,7 @@ body:
     id: checklist
     attributes:
       label: Labels displayed
-      description: The account screen should display the following:
+      description: The account screen should display the following
       options:
         - label: Avatar
           required: false
