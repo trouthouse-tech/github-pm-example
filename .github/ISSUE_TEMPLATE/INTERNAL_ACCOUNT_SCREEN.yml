@@ -1,0 +1,14 @@
+name: INTERNAL Account Sreen Functionality Checklist 💡
+description: This is a template for the account screen functionality.
+labels:
+  - ['type: feature enhancement 💡', 'role: dev :robot:']
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Requirements
+      description: These are the requirements for Account Screen Functionality
+      options:
+        - label: Avatar
+          required: false
+      
