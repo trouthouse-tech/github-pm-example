@@ -45,5 +45,3 @@ body:
   - type: markdown
     attributes:
       value:
-        '_Carbon is a collaborative system. We encourage teams to build with us and submit
-        contributions._'
