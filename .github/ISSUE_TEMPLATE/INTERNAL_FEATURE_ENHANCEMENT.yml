@@ -1,0 +1,49 @@
+name: INTERNAL Feature enhancement 💡
+description: Suggest an idea for this project.
+labels:
+  - 'type: feature enhancement 💡'
+body:
+  - type: markdown
+    attributes:
+      value:
+        Use this template to track a new feature
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description:
+        'Please describe your request in one or two sentences. Clarify if you are asking for design,
+        development, or both design and development.'
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Success metrics
+      description:
+        'Describe the full user experience for this feature. Also define the metrics by which we can
+        measure success/failure for the user (if any).'
+  - type: textarea
+    id: functionality
+    attributes:
+      label: Required functionality
+      description:
+        'Highlight any must have needs and functionality for the request. This should not be a full
+        list of functionality; the Carbon team will work with you to define functionality based on
+        the desired experience.'
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Specific timeline issues / requests
+      description:
+        'Do you want this work within a specific time period? Is it related to an upcoming release?'
+  - type: input
+    id: resources
+    attributes:
+      label: Available resources
+      description: 'What resources do you have to assist this effort? (loom videos / other issues etc.)'
+  - type: markdown
+    attributes:
+      value:
+        '_Carbon is a collaborative system. We encourage teams to build with us and submit
+        contributions._'
