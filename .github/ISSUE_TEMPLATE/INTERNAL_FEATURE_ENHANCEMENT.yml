@@ -28,9 +28,7 @@ body:
     attributes:
       label: Required functionality
       description:
-        'Highlight any must have needs and functionality for the request. This should not be a full
-        list of functionality; the Carbon team will work with you to define functionality based on
-        the desired experience.'
+        'Highlight any must have needs and functionality for the request.'
   - type: textarea
     id: timeline
     attributes:
