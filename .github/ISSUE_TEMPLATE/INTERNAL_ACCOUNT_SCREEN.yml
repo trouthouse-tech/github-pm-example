@@ -16,7 +16,7 @@ body:
         - label: Bio
           required: false
   - type: checkboxes
-    id: feature requirements
+    id: feature
     attributes:
       label: Feature requirements
       description: These are the feature requirements for the account screen
