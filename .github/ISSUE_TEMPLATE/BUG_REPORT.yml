@@ -13,10 +13,10 @@ body:
       description: Which browser(s) are you experiencing the issue?
       multiple: true
       options:
-        - Chrome
-        - Safari
-        - Firefox
-        - Edge
+        - label: Chrome
+        - label: Safari
+        - label: Firefox
+        - label: Edge
   - type: textarea
     id: description
     attributes:
