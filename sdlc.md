@@ -5,7 +5,7 @@ This document is meant to provide a complete overview of the THT Software Develo
 ### SDLC Overview
 
 1. Client Requirements are received and Tickets are created and added to the Backlog column of the relevant GitHub Project.
-2. Tickets receive tags: **_Mobile, Web, Android, iOS, Bug, Feature Request, Good First Task_**, **_Severity 1, Severity 2, Severity 3_, _Needs More Info_**.
+2. Tickets receive tags: **Android, iOS, Bug, Feature Request, Good First Task_**, **_Severity 1, Severity 2, Severity 3_, _Needs More Info_**.
 3. Tickets are added to the **Ready For Designs** column.
 4. When the Designer is finished with the Ticket, or the Designer needs some guidance/feedback, the Ticket should be moved to the **Needs Design QA/Feedback** column.
 5. When Design QA/Feedback is finished, the Ticket should be moved to the **Ready For Development** column.
@@ -17,8 +17,6 @@ This document is meant to provide a complete overview of the THT Software Develo
 11. All Tickets for the PR should be moved to the **Done** column.
 
 ### Tags Explained
-- **Mobile** - A solution is needed for the mobile app
-- **Web** - A solution is needed for the website
 - **Android** - Android should be included in the solution and QA
 - **iOS** - iOS should be included in the solution and QA
 - **Bug** - A feature is not behaving as it was intended to
